@@ -1,0 +1,20 @@
+siddik.ssltd@gmail.com
+*siddik*SmartSoftLtd*
+smart.softwareincbd@gmail.com
+
+smart hrm login credentials
+https://www.office.smartsoft-bd.com/login
+username : 22103030002
+password : 12345678
+
+CCTN client: 01737460892
+
+https://cctn.smarterp.biz/login
+CCTN Credential: admin@admin.com
+password: 01737460892@cctn
+
+https://cctn2.smarterp.biz/login
+CCTN2 Credential: admin@admin.com
+password: 12345678
+
+anydesk: 293063491
